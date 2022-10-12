@@ -13,8 +13,8 @@ a movies and series searcher with React JS, Axios, Bootstrap 5 and free API from
 ##
 
 # 🕹 Libraries:
-<img src="https://img.shields.io/badge/Python-8000FF?style=flat&logo=github&logoColor=white?logoWidth=100">
-<img src="https://img.shields.io/badge/Java-8000FF?style=flat&logo=github&logoColor=white?logoWidth=100">
+<img src="https://img.shields.io/badge/ReactJs-8000FF?style=flat&logo=github&logoColor=white?logoWidth=100">
+<img src="https://img.shields.io/badge/Axious-8000FF?style=flat&logo=github&logoColor=white?logoWidth=100">
 
 ##
 

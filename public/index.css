@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700;900&display=swap');
+
+.navbar-brand{
+    font-family: 'Montserrat';
+}
+
+.input-group {
+    width: fit-content;
+}
+#form1{
+    min-width: 300px;
+}
+.img.rounded-start{
+    height: 300px;
+    width: 200px;
+    object-fit: cover;
+}

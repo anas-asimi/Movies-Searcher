@@ -1,15 +1,6 @@
 # Movies-Searcher
 a movies and series searcher with React JS, Axios, Bootstrap 5 and free API from rapidapi.com
 
-<h4>
-    <a href="https://www.egybest-api.ga/docs/api/">Docs</a>
-  <span> · </span>
-    <a href="https://github.com/AmineSoukara/EgyBest-Api/issues/">Report Bug</a>
-  <span> · </span>
-    <a href="https://github.com/AmineSoukara/EgyBest-Api/issues/">Request Feature</a>
-  </h4>
-</div>
-
 ##
 
 <div align="center">
